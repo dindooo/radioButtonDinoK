@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\radioButtonDinoK\bin\Debug\radioButtonDinoK.exe.config
+C:\Users\ucenik\source\repos\radioButtonDinoK\bin\Debug\radioButtonDinoK.exe
+C:\Users\ucenik\source\repos\radioButtonDinoK\bin\Debug\radioButtonDinoK.pdb
+C:\Users\ucenik\source\repos\radioButtonDinoK\obj\Debug\radioButtonDinoK.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\radioButtonDinoK\obj\Debug\radioButtonDinoK.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\radioButtonDinoK\obj\Debug\radioButtonDinoK.Form1.resources
+C:\Users\ucenik\source\repos\radioButtonDinoK\obj\Debug\radioButtonDinoK.Properties.Resources.resources
+C:\Users\ucenik\source\repos\radioButtonDinoK\obj\Debug\radioButtonDinoK.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\radioButtonDinoK\obj\Debug\radioButtonDinoK.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\radioButtonDinoK\obj\Debug\radioButtonDinoK.exe
+C:\Users\ucenik\source\repos\radioButtonDinoK\obj\Debug\radioButtonDinoK.pdb
